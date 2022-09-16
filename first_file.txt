@@ -7,3 +7,5 @@ git remote add origin https://github.com/ChakitBhandari/Git_start.git This was u
 git push -u origin master. This pushes the code from the master branch of local repository to the master branch of the server repository on my GitHub
 account.This basically pushes to the origin which points to the URL mentioned above.git push -u origin master is used only for the first time which pushing 
 a file.
+
+Hey there
