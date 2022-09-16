@@ -1,1 +1,9 @@
-This is my First file.
+git init is used to inititalize an empty repository.
+git status is used to check the files which are staged and unstaged.
+git add file_name is used to make the file as Staged meaning to be recognised by Git
+git commit -m file_name is used to commit changes to the file.
+git remote add origin https://github.com/ChakitBhandari/Git_start.git This was used to connect the local repository with the server URL mentioned.
+
+git push -u origin master. This pushes the code from the master branch of local repository to the master branch of the server repository on my GitHub
+account.This basically pushes to the origin which points to the URL mentioned above.git push -u origin master is used only for the first time which pushing 
+a file.
